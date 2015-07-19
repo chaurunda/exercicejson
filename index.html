@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Exercice JSON</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="styles/shCore.css">
+    <link rel="stylesheet" href="styles/shThemeRDark.css">
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="src/shCore.js"></script>
+    <script src="scripts/shBrushJScript.js"></script>
+    <script src="scripts/shBrushXml.js"></script>
+</head>
+
+<body class="container">
+    <header class="container">
+        <nav class="row">
+            <ul class="nav nav-pills">
+                <li><a href="exercice_un/index.html">Exercice 1</a>
+                </li>
+                <li><a href="exercice_deux/index.html">Exercice 2</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h1>Bienvenue dans ce magnifique exercice pour vous apprendre à manipuler du JSON.</h1>
+        <p>Le but recherché est de pouvoir récupérer du JSON avec de AJAX et de manipuler le DOM pour en faire ce que vous souhaitez</p>
+        <h2>Qu'est-ce que le JSON</h2>
+        <p>Selon le Mozilla Developper Network : </p>
+        <blocquote>
+            JSON (<strong>JavaScript Object Notation</strong>) est un format d'échange de données. Il ressemble fortement à un sous-ensemble de la syntaxe JavaScript, bien que ce ne soit pas exactement un sous-ensemble strict. Ce langage est utile pour les applications écrites en JavaScript comme les sites web ou les extensions. Par exemple, on peut stocker des informations dans un cookie en JSON ou bien enregistrer des préférences avec un objet JSON.
+            <br> <br> JSON permet de représenter des nombres, des booléens, des chaînes de caractères, la valeur null, des tableaux (qui sont des séquences ordonnées de valeurs) et des objets (un ensemble de correspondances chaîne-valeur) composés de ces valeurs (ou d'autres tableaux ou objets). Il ne permet pas, nativement, de représenter des données plus complexes comme les fonctions, les expressions rationnelles, les dates ou autre. (Les objets Date sont traduits vers une chaîne de caractères selon un format ISO, cela permet pour certains cas, d'assurer le transport de ces données.) Si vous avez besoin de préserver ces valeurs et de représenter des valeurs d'autres types de données, vous pouvez les transformer lors de la conversion en chaîne de caractères et/ou les re-transformer avant de les convertir en objets JavaScript.
+        </blocquote>
+        <p>Pour faire simple, le JSON (JavaScript Object Notation) est un format reprenant l'objet javascript.</p>
+        <p>En effet la notation du json ce constitue de la façon suivante :</p>
+        <pre class="brush: js">
+            {
+                key : value,
+                anotherKey : anotherValue
+            }
+        </pre>
+        <p>L'objectif va être donc de savoir appeller et manipuler le DOM pour y injecter nos différentes données.
+            <br> Avant de commencer, je vais vous donner quelques exemples afin de comprendre la manipulation à effectuer.</p>
+        <h2>Exemples</h2>
+        <h3>Avant-propos</h3>
+        <p>Dans cette exemple je vais partir du principe que vous avez déjà une page html remplis (ou non) ainsi que jquery d'intégré à votre page.</p>
+
+        <p>Partons du principe que nous avons les fichiers suivants</p>
+        <p class="title-file">index.json</p>
+        <pre class="brush: js">
+            {
+                "text": "Salut les loulous"
+            }
+        </pre>
+        <p class="title-file">index.html</p>
+        <pre class="brush: html">
+            <!DOCTYPE html>
+            &lt;html lang="fr"&gt;
+            &lt;head&gt;
+                &lt;meta charset="UTF-8"&gt;
+                &lt;title>Document&gt;/title&gt;
+            &lt;/head&gt;
+            &lt;body&gt;
+                &lt;p>Bonjour à tous je voulais vous dire ceci : &lt;/p&gt;
+                &lt;div id="message"&gt;&lt;/div&gt;
+                &lt;script src="https://code.jquery.com/jquery-1.11.3.min.js"&gt;&lt;/script&gt;
+            &lt;/body&gt;
+            &lt;/html&gt;
+        </pre>
+        <p>Comme vous pouvez le voir il c'est simple à comprendre.</p>
+        <p>Maintenant, regardez comment, grace à jQuery je vais récupérer mon fichier JSON et l'intégrer dans ma page</p>
+        <p class="title-file">script.js</p>
+        <pre class="brush: js">
+            $(document).ready(function(){
+                $.getJSON('index.json', function(data){
+                    console.log(data);
+                    $('#my-message').text(data.text);
+                });
+            });
+        </pre>
+        <p>Comme vous pouvez le voir, data récupère tout notre contenu de notre fichier index.json. Pour récupérer la valeur de la clé text, j'ai écris data.text.</p>
+        <p>Voilà ce n'est pas plus compliqué que celà. Je vous ais préparé quelques exercices afin que vous puissiez vous faire la main avec (par ordre de "difficulté").</p>
+    </section>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript">
+        SyntaxHighlighter.all()
+    </script>
+</body>
+
+</html>

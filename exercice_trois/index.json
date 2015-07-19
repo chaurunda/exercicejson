@@ -1,0 +1,550 @@
+[{
+    "sName": "RB Markt",
+    "sAddress1": "Torstra\u00dfe, 223",
+    "sAddress2": "Berlin",
+    "sAddress3": null,
+    "sPostalCode": "10115",
+    "sCity": "Berlin",
+    "sCountryCode": "DE",
+    "fLatitude": 52.52779,
+    "fLongitude": 13.38822,
+    "aOpeningHours": {
+        "1": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "2": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "3": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "4": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "5": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "6": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "7": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }]
+    }
+},
+ {
+    "sName": "MBE Deutschland GmbH",
+    "sAddress1": "Charlottenstra\u00dfe, 17",
+    "sAddress2": "Berlin",
+    "sAddress3": null,
+    "sPostalCode": "10117",
+    "sCity": "Berlin",
+    "sCountryCode": "DE",
+    "fLatitude": 52.50834,
+    "fLongitude": 13.3924,
+    "aOpeningHours": {
+        "1": [{
+            "start": "08:30",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "19:00"
+        }],
+        "2": [{
+            "start": "08:30",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "19:00"
+        }],
+        "3": [{
+            "start": "08:30",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "19:00"
+        }],
+        "4": [{
+            "start": "08:30",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "19:00"
+        }],
+        "5": [{
+            "start": "08:30",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "19:00"
+        }],
+        "6": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "13:00"
+        }]
+    }
+},
+ {
+    "sName": "\u00c4nderungsschneiderei Sahin",
+    "sAddress1": "Hedemannstra\u00dfe, 10",
+    "sAddress2": "Berlin",
+    "sAddress3": null,
+    "sPostalCode": "10969",
+    "sCity": "Berlin",
+    "sCountryCode": "DE",
+    "fLatitude": 52.50305,
+    "fLongitude": 13.38871,
+    "aOpeningHours": {
+        "1": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "18:30"
+        }],
+        "2": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "18:30"
+        }],
+        "3": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "18:30"
+        }],
+        "4": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "18:30"
+        }],
+        "5": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "18:30"
+        }],
+        "6": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "13:00"
+        }]
+    }
+},
+ {
+    "sName": "Handsache Berlin",
+    "sAddress1": "Brunnenstra\u00dfe, 167",
+    "sAddress2": "Berlin",
+    "sAddress3": null,
+    "sPostalCode": "10119",
+    "sCity": "Berlin",
+    "sCountryCode": "DE",
+    "fLatitude": 52.53382,
+    "fLongitude": 13.39807,
+    "aOpeningHours": {
+        "1": [{
+            "start": "10:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "19:00"
+        }],
+        "2": [{
+            "start": "10:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "19:00"
+        }],
+        "3": [{
+            "start": "10:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "19:00"
+        }],
+        "4": [{
+            "start": "10:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "19:00"
+        }],
+        "5": [{
+            "start": "10:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "19:00"
+        }],
+        "6": [{
+            "start": "10:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "15:00"
+        }]
+    }
+},
+ {
+    "sName": "S\u00fckr\u00fc Konuk Gemischtwaren",
+    "sAddress1": "Wilsnacker Stra\u00dfe, 48",
+    "sAddress2": "Berlin",
+    "sAddress3": null,
+    "sPostalCode": "10559",
+    "sCity": "Berlin",
+    "sCountryCode": "DE",
+    "fLatitude": 52.5295467,
+    "fLongitude": 13.3508385,
+    "aOpeningHours": {
+        "2": [{
+            "start": "00:00",
+            "end": "00:00"
+        }, {
+            "start": "13:00",
+            "end": "18:00"
+        }],
+        "3": [{
+            "start": "00:00",
+            "end": "00:00"
+        }, {
+            "start": "13:00",
+            "end": "18:00"
+        }],
+        "4": [{
+            "start": "00:00",
+            "end": "00:00"
+        }, {
+            "start": "13:00",
+            "end": "18:00"
+        }],
+        "5": [{
+            "start": "00:00",
+            "end": "00:00"
+        }, {
+            "start": "13:00",
+            "end": "18:00"
+        }],
+        "6": [{
+            "start": "10:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "14:00"
+        }]
+    }
+},
+ {
+    "sName": "Sp\u00e4tkauf Kiosk",
+    "sAddress1": "Danziger Stra\u00dfe, 19",
+    "sAddress2": "Berlin",
+    "sAddress3": null,
+    "sPostalCode": "10435",
+    "sCity": "Berlin",
+    "sCountryCode": "DE",
+    "fLatitude": 52.54102,
+    "fLongitude": 13.41613,
+    "aOpeningHours": {
+        "1": [{
+            "start": "06:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "2": [{
+            "start": "06:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "3": [{
+            "start": "06:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "4": [{
+            "start": "06:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "5": [{
+            "start": "06:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "6": [{
+            "start": "06:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "7": [{
+            "start": "06:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }]
+    }
+},
+ {
+    "sName": "Sp\u00e4tkauf Gold-Eck",
+    "sAddress1": "Danziger Stra\u00dfe, 76",
+    "sAddress2": "Berlin",
+    "sAddress3": null,
+    "sPostalCode": "10405",
+    "sCity": "Berlin",
+    "sCountryCode": "DE",
+    "fLatitude": 52.53874,
+    "fLongitude": 13.424435,
+    "aOpeningHours": {
+        "1": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "2": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "3": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "4": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "5": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "6": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }],
+        "7": [{
+            "start": "07:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "23:59"
+        }]
+    }
+},
+ {
+    "sName": "all4yourparty",
+    "sAddress1": "Christburger Stra\u00dfe, 25",
+    "sAddress2": "Berlin",
+    "sAddress3": null,
+    "sPostalCode": "10405",
+    "sCity": "Berlin",
+    "sCountryCode": "DE",
+    "fLatitude": 52.5349618,
+    "fLongitude": 13.4300084,
+    "aOpeningHours": {
+        "1": [{
+            "start": "10:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "18:00"
+        }],
+        "2": [{
+            "start": "10:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "18:00"
+        }],
+        "3": [{
+            "start": "10:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "18:00"
+        }],
+        "4": [{
+            "start": "10:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "18:00"
+        }],
+        "5": [{
+            "start": "10:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "18:00"
+        }]
+    }
+},
+ {
+    "sName": "meindruckpunkt.de",
+    "sAddress1": "Zossener Stra\u00dfe, 31",
+    "sAddress2": "Berlin",
+    "sAddress3": null,
+    "sPostalCode": "10961",
+    "sCity": "Berlin",
+    "sCountryCode": "DE",
+    "fLatitude": 52.48949,
+    "fLongitude": 13.39488,
+    "aOpeningHours": {
+        "1": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "20:00"
+        }],
+        "2": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "20:00"
+        }],
+        "3": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "20:00"
+        }],
+        "4": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "20:00"
+        }],
+        "5": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "20:00"
+        }],
+        "6": [{
+            "start": "09:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "18:00"
+        }]
+    }
+},
+ {
+    "sName": "Der Kopierladen Prenzlauer Berg",
+    "sAddress1": "Danziger Stra\u00dfe, 96",
+    "sAddress2": "Berlin",
+    "sAddress3": null,
+    "sPostalCode": "10405",
+    "sCity": "Berlin",
+    "sCountryCode": "DE",
+    "fLatitude": 52.53747,
+    "fLongitude": 13.42787,
+    "aOpeningHours": {
+        "1": [{
+            "start": "08:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "22:00"
+        }],
+        "2": [{
+            "start": "08:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "22:00"
+        }],
+        "3": [{
+            "start": "08:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "22:00"
+        }],
+        "4": [{
+            "start": "08:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "22:00"
+        }],
+        "5": [{
+            "start": "08:00",
+            "end": "12:00"
+        }, {
+            "start": "12:00",
+            "end": "22:00"
+        }]
+    }
+}]
