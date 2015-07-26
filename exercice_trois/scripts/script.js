@@ -6,7 +6,7 @@
  *
  * Instruction :
  * 1 : Faire en sorte que notre script commence une fois le DOM chargé
- * 2 : Effectuer une requête AJAX qui va appelé le fichier index.json
+ * 2 : Effectuer une requête AJAX qui va appeler le fichier index.json
  * 3 : Dans le success de notre requete, faite une boucle sur votre résultat afin de pour l'afficher
  *     ligne par ligne (Voir l'aide plus bas).
  * 4 : Insérer les résultats formaté dans la liste '.list-group'.
