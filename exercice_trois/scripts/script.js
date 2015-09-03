@@ -1,9 +1,4 @@
 /*
- * Après une soirée organisée chez vous, vos invités ont décider, pour s'amuser de vous noter
- * sur l'ensemble de la soirée. Ils vous ont attribué une note de 0 à 20 en laissant chacun
- * son prénom. Regardez comment à été mis en place la première note (en dur sur le fichier
- * index.html) et reproduisez le même schema afin d'afficher tous les utilisateur ainsi que leur note.
- *
  * Instruction :
  * 1 : Faire en sorte que notre script commence une fois le DOM chargé
  * 2 : Effectuer une requête AJAX qui va appeler le fichier index.json
